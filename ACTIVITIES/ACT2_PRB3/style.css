@@ -6,6 +6,11 @@
   body{
     font-family: 'Times New Roman', Times, serif;
   }
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
   
   header{
     background-color: blue;
