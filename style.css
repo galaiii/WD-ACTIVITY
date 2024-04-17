@@ -14,15 +14,16 @@
     align-items: center;
     padding: 20px;
     text-align: center;
-
-    background-color: rgba(0, 4, 243, 0.7); /* Semi-transparent blue */
-    width: 100%;
+    background-color: rgb(0, 4, 243); /* Semi-transparent blue */
     color: yellow;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
   }
   
   #logo {
     width: auto;
-    height: 150px;
+    height: 80px;
     margin-left: 20px;
   }
   
@@ -37,7 +38,7 @@
   
   #background {
     width: 100%;
-    margin-top: 20px;
+    margin-top: 200px;
     border-radius: 5px;
   }
   
