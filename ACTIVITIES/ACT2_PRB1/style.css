@@ -148,7 +148,7 @@ input[type="checkbox"]{
 
   body{font-size: x-small};
 }
-@media (max-width: 1444px) {
+@media (max-width: 1300px) {
   nav .menu-btn i{
     display: block;
   }

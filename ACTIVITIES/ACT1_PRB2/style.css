@@ -145,7 +145,7 @@ th {
      padding: 0 40px 0 50px;
    }
  }
- @media (max-width: 1444px) {
+ @media (max-width: 1300px) {
    nav .menu-btn i{
      display: block;
    }
